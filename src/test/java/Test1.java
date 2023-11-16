@@ -8,6 +8,6 @@ public class Test1
     public void test1()
     {
         System.out.println("Eseguo il test1");
-        Assert.assertTrue("True == false",true != false);
+        Assert.assertTrue("True == false!",true != false);
     }
 }
